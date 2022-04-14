@@ -1,0 +1,16 @@
+ESTACIONES Y MANTENIMIENTO
+- Modelo entidad relación (24 tablas)
+- Diagrama de casos de usos (6)
+- Diagrama de acticidades (23)
+
+
+UNIDADES DE TRANSPORTE
+- Modelo entidad relación[?][sin atributos] (24 tablas)
+- Diagrama de casos de uso [Administrador] (1)
+- Diagrama de casos de uso [JUD] (1)
+- Diagrama de casos de uso [Supervisor/Auditor] (1)
+- Descripciones de los casos de uso (6 tablas)
+- Diagrama de actividades (6)
+
+
+------------------

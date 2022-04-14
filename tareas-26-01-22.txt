@@ -1,0 +1,18 @@
+* Despliegue e instalacion eso poner todo lo del documento.
+* Los costos los haremos nosotros, nos compartiran los costos para complementar la información.
+* seccion de costos con los numeros.
+* recomendacion de capacidad de dispiositovos moviles.
+* quitar sublime, Todo lo de gastos y material de hardware
+* buscar e investigar los costos de los programadores. 
+
+PROXIMA REUNION
+--> Miercoles 16 de feb a las 6:30pm <--
+
+/***********************************************************/
+/************* NOTAS PARA LA PROXIMA REUNION ***************/
+/***********************************************************/
+-> SECCION 8 - DESARROLLO
++ falta funcionalidad del sistema
++ servicios ofrecidos
+
++ -- horario para ver errores técnicos --
